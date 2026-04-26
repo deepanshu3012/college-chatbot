@@ -5,7 +5,8 @@ langchain-community
 langchain-groq
 langchain-core
 langchain-text-splitters
-chromadb
+langchain-pinecone
+pinecone-client
 sentence-transformers
 pypdf
 python-dotenv
