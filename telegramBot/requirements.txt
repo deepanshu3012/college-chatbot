@@ -1,0 +1,10 @@
+python-telegram-bot
+langchain
+langchain-community
+langchain-groq
+langchain-core
+langchain-pinecone
+pinecone-client
+sentence-transformers
+python-dotenv
+langchain-huggingface
