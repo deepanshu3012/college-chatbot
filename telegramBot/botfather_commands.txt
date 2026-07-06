@@ -1,0 +1,3 @@
+start - Start the bot and get a greeting
+help - See instructions and example questions
+clear - Clear conversation memory to start fresh
